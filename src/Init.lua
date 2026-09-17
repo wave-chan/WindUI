@@ -22,7 +22,6 @@ local WindUI = {
 	UIScaleObj = nil,
 
 	CreateWindow = nil,
-
 	CurrentInput = nil,
 }
 
